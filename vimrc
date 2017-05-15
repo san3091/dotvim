@@ -27,3 +27,4 @@ map <C-n> :NERDTreeToggle<CR>
 
 colorscheme molokai
 let NERDTreeShowHidden=1
+set noswapfile
