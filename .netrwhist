@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/squintana/exercism/ruby/raindrops'
 let g:netrw_dirhist_2='/Users/squintana/src/auth_service'
 let g:netrw_dirhist_3='/Users/squintana/src/developer_portal_frontend'
+let g:netrw_dirhist_4='/Users/squintana/src/edison-forms'

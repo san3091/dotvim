@@ -25,4 +25,4 @@ inoremap jk <ESC>
 " NERDtree
 map <C-n> :NERDTreeToggle<CR>
 
-colorscheme wombat
+colorscheme molokai
