@@ -19,11 +19,22 @@ set shiftwidth=2
 " pressing tab insert two spaces
 set expandtab
 
+" set leader to ,
+let mapleader = ","
+
 " map esc to jk
 inoremap jk <ESC>
 
 " NERDtree
-map <C-n> :NERDTreeToggle<CR>
+map <Leader>n :NERDTreeToggle<CR>
+
+" cheater cheater pumpkin eater
+set mouse=a
+map <ScrollWheelUp> <C-Y>
+map <ScrollWheelDown> <C-E>
+
+" let me exis multi select with jk 
+" let g:multi_cursor_quit_key="<Esc>"
 
 colorscheme molokai
 let NERDTreeShowHidden=1
